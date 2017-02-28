@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 # git 忽略文件
 *.temp
 ~$*.*
+=======
+# git忽略文件
+.temp
+~$*.doc
+~$*.docx
+>>>>>>> 2f5db92c4f3ec1b5afa4dd32b551ee0010e7f5c2
